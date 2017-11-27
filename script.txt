@@ -1,0 +1,18 @@
+h
+a (prints "Error: no campers enrolled.")
+r campers.txt
+g (prints "6 males, 3 females")
+e Atlas 50 M
+e Hestia F 28
+g (prints "7 males, 4 females")
+l Achilles (prints "Achilles, 22, M")
+l Posidon (prints "Error: no camper named "Posidon".")
+w campers2.txt
+a 15 4 Pantheon
+a 20 3 Mortals
+a 25 2 Odyssey
+t 45 (prints "Pantheon, party of 4, your table is ready.")
+d Hera
+t 60
+c (prints "Average wait time: 35 minutes.  Party of 2, Odyssey not seated.")
+a (prints "36.6")

@@ -1,0 +1,10 @@
+e "Alexander the Great" 24 M
+e Achilles 22 M
+e Daedalus 30 M
+e Heracles 45 M
+e Odysseus 33 M
+e Hera 60 F
+e Hermes 50 M
+e Demeter 40 F
+e Persephone 44 F
+q
